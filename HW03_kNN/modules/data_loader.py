@@ -52,8 +52,8 @@ def load_data(dataset):
      validation_x, validation_y = valid_set
      test_x, test_y = test_set
 
-     train_x = np.append(validation_x, train_x, axis = 0)
-     train_y = np.append(validation_y, train_y, axis = 0)
+     # train_x = np.append(validation_x, train_x, axis = 0)
+     # train_y = np.append(validation_y, train_y, axis = 0)
 
 
      return (train_x, train_y, test_x, test_y)
