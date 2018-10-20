@@ -34,19 +34,21 @@ if __name__ == "__main__":
 
 	images = data_loader.load_data('mnist.pkl.gz')
 	knn = kNN.knn_init(data=images)
-	'''
+	
+
 	for train_number in train_data_number_list:
 		for test_number in test_data_number_list:
 			for k in k_list:
 				knn.run(k=k, train_number= train_number, test_number = test_number, eigenspace_dimension = None)
+	# raw image
+
 
 	for train_number in train_data_number_list:
 		for test_number in test_data_number_list:
 			for k in k_list:
 				for eigenspace_dimension in eigenspace_dimension_list:
 					knn.run(k=k, train_number = train_number, test_number = test_number, eigenspace_dimension = eigenspace_dimension)
-	'''
-
+	# eigenspace projection
 
 
 	clf = RandomForestClassifier(n_estimators = 200, max_depth = 500)
