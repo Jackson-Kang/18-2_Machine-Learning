@@ -89,10 +89,18 @@ class k_Means:
 		eigenvalues, eigenvectors = np.linalg.eig(cov_matrix)
 		
 		eigenvectors = eigenvectors.real.T[:eigenspace_dim]
+		eigenvectors = self._normalization(data=eigenvectors, norm_range=[-1, 1])
 		dot_producted_eigenvectors = np.dot(eigenvectors.T, eigenvectors)
-		projectioned_train = np.dot(self._train_x, dot_producted_eigenvectors.T)
-	
+		projectioned_train = np.dot(self._train_x, dot_producted_eigenvectors)
+
 		self._train_x = projectioned_train
+
+
+	def _normalization(self, data, norm_range):
+		print(data.shape)
+		for i in np.ndindex(data.shape[0]):
+			data[i] = np.interp(data[i], (data[i].min(), data[i].max()), norm_range)
+		return data
 
 
 	def run(self, k, filtered_list =[3, 9], eigenspace_dim=None):
@@ -102,11 +110,14 @@ class k_Means:
 		self._k = k
 		self._filter_test_data(filtered_list)
 		if eigenspace_dim is not None:
-			self._eigenprojection()
+			self._eigenprojection(eigenspace_dim)
 		r, centroids = self._training()	
 		if len(filtered_list)==k:
 			self._testing(r = r, filtered_list = filtered_list)
 		if eigenspace_dim is not None:
+
+			centroids = self._normalization(data=centroids, norm_range=[0, 1])
+
 			for i in range(k):
 				imageio.imwrite('./results/k_' + str(k) + '_es_' + str(eigenspace_dim) + '_centroid_' + str(i) + '.jpg', centroids[i].reshape((28, 28)))	
 		else:
