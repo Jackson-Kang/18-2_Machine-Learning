@@ -2,6 +2,7 @@ import numpy as np
 import random
 import imageio
 import matplotlib.pyplot as plt
+from sklearn import decomposition
 
 
 class k_Means:
@@ -20,12 +21,10 @@ class k_Means:
 			self._train_x = self._train_x[np.where(indices)]
 			self._train_y = self._train_y[np.where(indices)]
 
-	def _init_centroid(self):
-		centroids = self._train_x[:self._k]
-		#x_assignee = self._train_x[self._k:]
-		x_assignee = self._train_x
-		y_assignee = self._train_y
-		#y_assignee = self._train_y[self._k:]
+	def _init_centroid(self, data, label):
+		centroids = data[:self._k]
+		x_assignee = data
+		y_assignee = label
 
 		return centroids, x_assignee, y_assignee
 
@@ -41,7 +40,7 @@ class k_Means:
 	
 		return r_list
 
-	def _maximization(self, r_list, x_assignee):
+	def _maximization(self, r_list, x_assignee, eigenspace_dim):
 		# Calculate mu
 		centroids = np.array([])
 		r_list = r_list.T
@@ -54,16 +53,19 @@ class k_Means:
 					count+=1
 			mu = summation * (1/count)
 			centroids=np.append(centroids, mu)
-		return centroids.reshape(-1, 784)
-	
+		if eigenspace_dim is None:
+			return centroids.reshape(-1, 784)
+		else:
+			return centroids.reshape(-1, eigenspace_dim)
 
-	def _training(self):
-		centroids, x_assignee, y_assignee = self._init_centroid()
+	def _training(self, data, eigenspace_dim):
+		centroids, x_assignee, y_assignee = self._init_centroid(data, self._train_y)
 		count = 0
+		
 		prev_r = np.array([])
 		while True:
 			r = self._expectation(centroids = centroids, x_assignee = x_assignee, y_assignee = y_assignee)
-			centroids = self._maximization(r_list = r, x_assignee = x_assignee)
+			centroids = self._maximization(r_list = r, x_assignee = x_assignee, eigenspace_dim=eigenspace_dim)
 			if len(prev_r) is not 0:
 				if (float(np.mean(np.equal(r, prev_r))) ==  1.0):
 					count +=1
@@ -72,6 +74,8 @@ class k_Means:
 			if count == 10:
 				break
 			prev_r = r
+			
+
 		return prev_r, centroids
 
 
@@ -84,16 +88,28 @@ class k_Means:
 
 		print("\t\t[Results] The maximum ratio is ", acc)
 
-	def _eigenprojection(self, eigenspace_dim = 2):
-		cov_matrix = np.cov((self._train_x-np.mean(self._train_x)).T)
+	def _eigenprojection(self, data, eigenspace_dim = 2):
+		cov_matrix = np.cov((data-np.mean(data)).T)
 		eigenvalues, eigenvectors = np.linalg.eig(cov_matrix)
 		
 		eigenvectors = eigenvectors.real.T[:eigenspace_dim]
-		eigenvectors = self._normalization(data=eigenvectors, norm_range=[-1, 1])
-		dot_producted_eigenvectors = np.dot(eigenvectors.T, eigenvectors)
-		projectioned_train = np.dot(self._train_x, dot_producted_eigenvectors)
+		projectioned_train = np.dot(data, eigenvectors.T)
 
-		self._train_x = projectioned_train
+		return projectioned_train
+
+	def _draw_graph(self, r_list, data, eigenspace_dim, centroids):
+		
+		color = ['red', 'blue', 'pink', 'green', 'orange', 'purple', 'magenta', 'purple', 'cyan', 'brown']
+		shape = ['.', '^', 'X', 'P', 'p', '*', '+', 'v', 'D', 's']
+		fig, ax = plt.subplots()
+
+		clusters = np.argmax(r_list, axis = 1)
+
+		for i in range(self._k):
+
+			clustered_data = np.array([data[j] for j in range(len(data)) if clusters[j] == i])
+			ax.scatter(clustered_data[:, 0], clustered_data[:, 1], s=7, marker=shape[i], c=color[i])
+		fig.savefig('./results/k_'+str(self._k)+'_dim_'+str(eigenspace_dim)+'.png')
 
 
 	def _normalization(self, data, norm_range):
@@ -103,26 +119,33 @@ class k_Means:
 		return data
 
 
+
 	def run(self, k, filtered_list =[3, 9], eigenspace_dim=None):
 
 		print("\n\t[Step k=" + str(k) + ", eigenspace_dim="+str(eigenspace_dim)+"]" )
-
+		
 		self._k = k
 		self._filter_test_data(filtered_list)
+		data = self._train_x
 		if eigenspace_dim is not None:
-			self._eigenprojection(eigenspace_dim)
-		r, centroids = self._training()	
+			data = self._eigenprojection(data = data, eigenspace_dim = eigenspace_dim)
+
+		r, centroids = self._training(data, eigenspace_dim)	
 		if len(filtered_list)==k:
 			self._testing(r = r, filtered_list = filtered_list)
 		if eigenspace_dim is not None:
-
-			centroids = self._normalization(data=centroids, norm_range=[0, 1])
-
-			for i in range(k):
-				imageio.imwrite('./results/k_' + str(k) + '_es_' + str(eigenspace_dim) + '_centroid_' + str(i) + '.jpg', centroids[i].reshape((28, 28)))	
+			pass	
+			#for i in range(k):
+			#imageio.imwrite('./results/k_' + str(k) + '_es_' + str(eigenspace_dim) + '_centroid_' + str(i) + '.jpg', centroids[i].reshape((28, 28)))	
 		else:
 			for i in range(k):
 				imageio.imwrite('./results/k_' + str(k) + '_es_' + str(eigenspace_dim) + '_centroid_' + str(i) + '.jpg', centroids[i].reshape((28, 28)))
+				#self._draw_graph(train_x=self._train_x, r_list = r, k = k, eigenspace_dim=eigenspace_dim, i=i)
+
+		dim_reduced_data = self._eigenprojection(data=data, eigenspace_dim=2)
+		dim_reduced_centroid = self._eigenprojection(data=centroids, eigenspace_dim=2)
+		self._draw_graph(r_list = r, data = dim_reduced_data, eigenspace_dim=eigenspace_dim, centroids=dim_reduced_centroid)
+
 
 		print("\t Finish!")
 
