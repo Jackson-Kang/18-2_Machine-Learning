@@ -75,10 +75,9 @@ class knn_init:
 		cov_matrix = np.cov((self._train_x-np.mean(self._train_x)).T)
 		eigenvalues, eigenvectors = np.linalg.eig(cov_matrix)
 		eigenvectors =eigenvectors.T[:eigenspace_dim].T
-		dot_producted_unit_vector = np.dot(eigenvectors, eigenvectors.T)
 
-		projectioned_train = np.dot(self._train_x, dot_producted_unit_vector)
-		projectioned_test = np.dot(self._test_x, dot_producted_unit_vector)
+		projectioned_train = np.dot(self._train_x, eigenvectors)
+		projectioned_test = np.dot(self._test_x, eigenvectors)
  
 		return (projectioned_train, projectioned_test)
  

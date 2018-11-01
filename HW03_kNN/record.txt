@@ -1,1512 +1,1512 @@
 
 Train number: 1000	 Test number:100
-	[Result] k=1	Total Acc is 0.83	Time:0.07257437705993652seconds
+	[Result] k=1	Total Acc is 0.83	Time:0.07536554336547852seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=5	Total Acc is 0.84	Time:0.07512664794921875seconds
+	[Result] k=5	Total Acc is 0.84	Time:0.07467079162597656seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=10	Total Acc is 0.84	Time:0.07572579383850098seconds
+	[Result] k=10	Total Acc is 0.84	Time:0.07442808151245117seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=1	Total Acc is 0.85	Time:0.14775991439819336seconds
+	[Result] k=1	Total Acc is 0.85	Time:0.14603281021118164seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=5	Total Acc is 0.86	Time:0.14961647987365723seconds
+	[Result] k=5	Total Acc is 0.86	Time:0.14962005615234375seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=10	Total Acc is 0.855	Time:0.15082383155822754seconds
+	[Result] k=10	Total Acc is 0.855	Time:0.15378475189208984seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=1	Total Acc is 0.828	Time:0.3685634136199951seconds
+	[Result] k=1	Total Acc is 0.828	Time:0.3663475513458252seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=5	Total Acc is 0.826	Time:0.37284016609191895seconds
+	[Result] k=5	Total Acc is 0.826	Time:0.38466334342956543seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=10	Total Acc is 0.8	Time:0.3764009475708008seconds
+	[Result] k=10	Total Acc is 0.8	Time:0.3774409294128418seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=1	Total Acc is 0.828	Time:0.7370104789733887seconds
+	[Result] k=1	Total Acc is 0.828	Time:0.7384181022644043seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=5	Total Acc is 0.815	Time:0.736475944519043seconds
+	[Result] k=5	Total Acc is 0.815	Time:0.7447974681854248seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=10	Total Acc is 0.799	Time:0.7321391105651855seconds
+	[Result] k=10	Total Acc is 0.799	Time:0.7547783851623535seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=1	Total Acc is 0.8195	Time:1.4394750595092773seconds
+	[Result] k=1	Total Acc is 0.8195	Time:1.4945156574249268seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=5	Total Acc is 0.8075	Time:1.4545962810516357seconds
+	[Result] k=5	Total Acc is 0.8075	Time:1.51890230178833seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=10	Total Acc is 0.791	Time:1.4671108722686768seconds
+	[Result] k=10	Total Acc is 0.791	Time:1.5019497871398926seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=1	Total Acc is 0.8244	Time:3.5907716751098633seconds
+	[Result] k=1	Total Acc is 0.8244	Time:3.721766710281372seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=5	Total Acc is 0.8126	Time:3.6288440227508545seconds
+	[Result] k=5	Total Acc is 0.8126	Time:3.73190975189209seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=10	Total Acc is 0.7932	Time:3.6685914993286133seconds
+	[Result] k=10	Total Acc is 0.7932	Time:3.7652342319488525seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=1	Total Acc is 0.869	Time:7.185122013092041seconds
+	[Result] k=1	Total Acc is 0.869	Time:7.412413835525513seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=5	Total Acc is 0.8582	Time:7.248192071914673seconds
+	[Result] k=5	Total Acc is 0.8582	Time:7.4753077030181885seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=10	Total Acc is 0.8448	Time:7.310256242752075seconds
+	[Result] k=10	Total Acc is 0.8448	Time:7.5294880867004395seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=1	Total Acc is 0.86	Time:0.16074609756469727seconds
+	[Result] k=1	Total Acc is 0.86	Time:0.17032551765441895seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=5	Total Acc is 0.9	Time:0.16169524192810059seconds
+	[Result] k=5	Total Acc is 0.9	Time:0.17036867141723633seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=10	Total Acc is 0.91	Time:0.16199493408203125seconds
+	[Result] k=10	Total Acc is 0.91	Time:0.16920995712280273seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=1	Total Acc is 0.875	Time:0.32152318954467773seconds
+	[Result] k=1	Total Acc is 0.875	Time:0.34389638900756836seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=5	Total Acc is 0.895	Time:0.32283473014831543seconds
+	[Result] k=5	Total Acc is 0.895	Time:0.34146690368652344seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=10	Total Acc is 0.91	Time:0.323777437210083seconds
+	[Result] k=10	Total Acc is 0.91	Time:0.34058141708374023seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=1	Total Acc is 0.862	Time:0.8070752620697021seconds
+	[Result] k=1	Total Acc is 0.862	Time:0.8548972606658936seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=5	Total Acc is 0.864	Time:0.8067929744720459seconds
+	[Result] k=5	Total Acc is 0.864	Time:0.8539872169494629seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=10	Total Acc is 0.868	Time:0.8099122047424316seconds
+	[Result] k=10	Total Acc is 0.868	Time:0.8563430309295654seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=1	Total Acc is 0.873	Time:1.6068034172058105seconds
+	[Result] k=1	Total Acc is 0.873	Time:1.7186758518218994seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=5	Total Acc is 0.866	Time:1.6157031059265137seconds
+	[Result] k=5	Total Acc is 0.866	Time:1.7075366973876953seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=10	Total Acc is 0.864	Time:1.623530387878418seconds
+	[Result] k=10	Total Acc is 0.864	Time:1.7132787704467773seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=1	Total Acc is 0.8675	Time:3.2173993587493896seconds
+	[Result] k=1	Total Acc is 0.8675	Time:3.4198458194732666seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=5	Total Acc is 0.859	Time:3.2307074069976807seconds
+	[Result] k=5	Total Acc is 0.859	Time:3.4340949058532715seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=10	Total Acc is 0.8565	Time:3.2418837547302246seconds
+	[Result] k=10	Total Acc is 0.8565	Time:3.426058530807495seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=1	Total Acc is 0.869	Time:8.037350177764893seconds
+	[Result] k=1	Total Acc is 0.869	Time:8.545552015304565seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=5	Total Acc is 0.8656	Time:8.076843738555908seconds
+	[Result] k=5	Total Acc is 0.8656	Time:8.572151899337769seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=10	Total Acc is 0.854	Time:8.099982261657715seconds
+	[Result] k=10	Total Acc is 0.854	Time:8.584434986114502seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=1	Total Acc is 0.9028	Time:16.076379537582397seconds
+	[Result] k=1	Total Acc is 0.9028	Time:17.07174801826477seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=5	Total Acc is 0.8984	Time:16.13565158843994seconds
+	[Result] k=5	Total Acc is 0.8984	Time:17.116604566574097seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=10	Total Acc is 0.8895	Time:16.178171634674072seconds
+	[Result] k=10	Total Acc is 0.8895	Time:17.169095516204834seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=1	Total Acc is 0.9	Time:0.43148350715637207seconds
+	[Result] k=1	Total Acc is 0.9	Time:0.46267223358154297seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=5	Total Acc is 0.95	Time:0.433424711227417seconds
+	[Result] k=5	Total Acc is 0.95	Time:0.4625859260559082seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=10	Total Acc is 0.95	Time:0.43378520011901855seconds
+	[Result] k=10	Total Acc is 0.95	Time:0.46495652198791504seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=1	Total Acc is 0.92	Time:0.8665745258331299seconds
+	[Result] k=1	Total Acc is 0.92	Time:0.9308829307556152seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=5	Total Acc is 0.95	Time:0.8692729473114014seconds
+	[Result] k=5	Total Acc is 0.95	Time:0.9254493713378906seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=10	Total Acc is 0.94	Time:0.8675315380096436seconds
+	[Result] k=10	Total Acc is 0.94	Time:0.942094087600708seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=1	Total Acc is 0.906	Time:2.1643471717834473seconds
+	[Result] k=1	Total Acc is 0.906	Time:2.3042490482330322seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=5	Total Acc is 0.91	Time:2.169684410095215seconds
+	[Result] k=5	Total Acc is 0.91	Time:2.336221933364868seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=10	Total Acc is 0.89	Time:2.168241024017334seconds
+	[Result] k=10	Total Acc is 0.89	Time:2.313737392425537seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=1	Total Acc is 0.902	Time:4.33144211769104seconds
+	[Result] k=1	Total Acc is 0.902	Time:4.640178442001343seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=5	Total Acc is 0.91	Time:4.336907386779785seconds
+	[Result] k=5	Total Acc is 0.91	Time:4.64337944984436seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=10	Total Acc is 0.898	Time:4.342586040496826seconds
+	[Result] k=10	Total Acc is 0.898	Time:4.640465021133423seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=1	Total Acc is 0.906	Time:8.663159608840942seconds
+	[Result] k=1	Total Acc is 0.906	Time:9.263557434082031seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=5	Total Acc is 0.9005	Time:8.673496723175049seconds
+	[Result] k=5	Total Acc is 0.9005	Time:9.264764785766602seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=10	Total Acc is 0.8875	Time:8.677714824676514seconds
+	[Result] k=10	Total Acc is 0.8875	Time:9.287281036376953seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=1	Total Acc is 0.9108	Time:21.656092882156372seconds
+	[Result] k=1	Total Acc is 0.9108	Time:23.18744158744812seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=5	Total Acc is 0.906	Time:21.680511236190796seconds
+	[Result] k=5	Total Acc is 0.906	Time:23.17367458343506seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=10	Total Acc is 0.8954	Time:21.696074724197388seconds
+	[Result] k=10	Total Acc is 0.8954	Time:23.22048306465149seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=1	Total Acc is 0.9343	Time:43.31073021888733seconds
+	[Result] k=1	Total Acc is 0.9343	Time:46.35244941711426seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=5	Total Acc is 0.9325	Time:43.35989499092102seconds
+	[Result] k=5	Total Acc is 0.9325	Time:46.32604932785034seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=10	Total Acc is 0.9251	Time:43.384838342666626seconds
+	[Result] k=10	Total Acc is 0.9251	Time:46.30950164794922seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=1	Total Acc is 0.92	Time:1.5355939865112305seconds
+	[Result] k=1	Total Acc is 0.92	Time:1.4668865203857422seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=5	Total Acc is 0.95	Time:1.5363764762878418seconds
+	[Result] k=5	Total Acc is 0.95	Time:1.4562022686004639seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=10	Total Acc is 0.96	Time:1.5363044738769531seconds
+	[Result] k=10	Total Acc is 0.96	Time:1.4581787586212158seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=1	Total Acc is 0.93	Time:3.0880002975463867seconds
+	[Result] k=1	Total Acc is 0.93	Time:2.9397683143615723seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=5	Total Acc is 0.94	Time:3.0878031253814697seconds
+	[Result] k=5	Total Acc is 0.94	Time:2.942652702331543seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=10	Total Acc is 0.945	Time:3.085550546646118seconds
+	[Result] k=10	Total Acc is 0.945	Time:2.9278671741485596seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=1	Total Acc is 0.922	Time:7.734477758407593seconds
+	[Result] k=1	Total Acc is 0.922	Time:7.365238904953003seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=5	Total Acc is 0.918	Time:7.7362353801727295seconds
+	[Result] k=5	Total Acc is 0.918	Time:7.346642971038818seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=10	Total Acc is 0.918	Time:7.736250162124634seconds
+	[Result] k=10	Total Acc is 0.918	Time:7.352063417434692seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=1	Total Acc is 0.92	Time:15.48475432395935seconds
+	[Result] k=1	Total Acc is 0.92	Time:14.723397731781006seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=5	Total Acc is 0.916	Time:15.485677719116211seconds
+	[Result] k=5	Total Acc is 0.916	Time:14.733423709869385seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=10	Total Acc is 0.915	Time:15.489662885665894seconds
+	[Result] k=10	Total Acc is 0.915	Time:14.729832649230957seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=1	Total Acc is 0.9225	Time:31.032737255096436seconds
+	[Result] k=1	Total Acc is 0.9225	Time:29.33882761001587seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=5	Total Acc is 0.9205	Time:30.988926649093628seconds
+	[Result] k=5	Total Acc is 0.9205	Time:29.216232776641846seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=10	Total Acc is 0.918	Time:30.980940580368042seconds
+	[Result] k=10	Total Acc is 0.918	Time:29.03670382499695seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=1	Total Acc is 0.9266	Time:77.44861173629761seconds
+	[Result] k=1	Total Acc is 0.9266	Time:72.9340238571167seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=5	Total Acc is 0.9222	Time:77.47462439537048seconds
+	[Result] k=5	Total Acc is 0.9222	Time:72.91954255104065seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=10	Total Acc is 0.9174	Time:77.49135565757751seconds
+	[Result] k=10	Total Acc is 0.9174	Time:72.7859697341919seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=1	Total Acc is 0.9463	Time:154.92661333084106seconds
+	[Result] k=1	Total Acc is 0.9463	Time:149.21481585502625seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=5	Total Acc is 0.9442	Time:154.9398820400238seconds
+	[Result] k=5	Total Acc is 0.9442	Time:150.30301547050476seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=10	Total Acc is 0.9411	Time:154.97198867797852seconds
+	[Result] k=10	Total Acc is 0.9411	Time:148.47098016738892seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=1	Total Acc is 0.96	Time:5.594404220581055seconds
+	[Result] k=1	Total Acc is 0.96	Time:5.363214015960693seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=5	Total Acc is 0.97	Time:5.595321178436279seconds
+	[Result] k=5	Total Acc is 0.97	Time:5.500828742980957seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=10	Total Acc is 0.95	Time:5.59536075592041seconds
+	[Result] k=10	Total Acc is 0.95	Time:5.520004034042358seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=1	Total Acc is 0.96	Time:11.191240549087524seconds
+	[Result] k=1	Total Acc is 0.96	Time:10.96013593673706seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=5	Total Acc is 0.965	Time:11.193102598190308seconds
+	[Result] k=5	Total Acc is 0.965	Time:11.036441087722778seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=10	Total Acc is 0.95	Time:11.196869134902954seconds
+	[Result] k=10	Total Acc is 0.95	Time:11.00204873085022seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=1	Total Acc is 0.938	Time:27.991732597351074seconds
+	[Result] k=1	Total Acc is 0.938	Time:27.39648985862732seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=5	Total Acc is 0.946	Time:27.99279546737671seconds
+	[Result] k=5	Total Acc is 0.946	Time:27.460873126983643seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=10	Total Acc is 0.94	Time:28.004412174224854seconds
+	[Result] k=10	Total Acc is 0.94	Time:27.444595098495483seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=1	Total Acc is 0.942	Time:55.994616746902466seconds
+	[Result] k=1	Total Acc is 0.942	Time:54.836000204086304seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=5	Total Acc is 0.942	Time:55.99098348617554seconds
+	[Result] k=5	Total Acc is 0.942	Time:54.54586172103882seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=10	Total Acc is 0.933	Time:56.005324602127075seconds
+	[Result] k=10	Total Acc is 0.933	Time:54.244128942489624seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=1	Total Acc is 0.94	Time:111.98040318489075seconds
+	[Result] k=1	Total Acc is 0.94	Time:109.23181462287903seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=5	Total Acc is 0.943	Time:112.02721285820007seconds
+	[Result] k=5	Total Acc is 0.943	Time:110.36889004707336seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=10	Total Acc is 0.9385	Time:112.01735854148865seconds
+	[Result] k=10	Total Acc is 0.9385	Time:110.12957096099854seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=1	Total Acc is 0.9406	Time:280.0228736400604seconds
+	[Result] k=1	Total Acc is 0.9406	Time:275.6018521785736seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=5	Total Acc is 0.9408	Time:280.05298137664795seconds
+	[Result] k=5	Total Acc is 0.9408	Time:277.4072935581207seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=10	Total Acc is 0.938	Time:280.0709867477417seconds
+	[Result] k=10	Total Acc is 0.938	Time:274.6920716762543seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=1	Total Acc is 0.9593	Time:560.0562314987183seconds
+	[Result] k=1	Total Acc is 0.9593	Time:543.1532413959503seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=5	Total Acc is 0.9593	Time:560.345894575119seconds
+	[Result] k=5	Total Acc is 0.9593	Time:553.3518979549408seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=10	Total Acc is 0.9562	Time:559.5632128715515seconds
+	[Result] k=10	Total Acc is 0.9562	Time:570.523788690567seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=1	Total Acc is 1.0	Time:11.207568407058716seconds
+	[Result] k=1	Total Acc is 1.0	Time:11.123512029647827seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=5	Total Acc is 0.98	Time:11.207648038864136seconds
+	[Result] k=5	Total Acc is 0.98	Time:11.119704723358154seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=10	Total Acc is 0.95	Time:11.199270725250244seconds
+	[Result] k=10	Total Acc is 0.95	Time:11.124988555908203seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=1	Total Acc is 0.985	Time:22.42877173423767seconds
+	[Result] k=1	Total Acc is 0.985	Time:22.26534914970398seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=5	Total Acc is 0.975	Time:22.42860746383667seconds
+	[Result] k=5	Total Acc is 0.975	Time:22.254617929458618seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=10	Total Acc is 0.965	Time:22.4292733669281seconds
+	[Result] k=10	Total Acc is 0.965	Time:22.211098670959473seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=1	Total Acc is 0.962	Time:56.17268204689026seconds
+	[Result] k=1	Total Acc is 0.962	Time:54.4733145236969seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=5	Total Acc is 0.962	Time:56.093777894973755seconds
+	[Result] k=5	Total Acc is 0.962	Time:54.33370804786682seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=10	Total Acc is 0.96	Time:56.06718945503235seconds
+	[Result] k=10	Total Acc is 0.96	Time:54.36238694190979seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=1	Total Acc is 0.957	Time:112.13219904899597seconds
+	[Result] k=1	Total Acc is 0.957	Time:108.33033609390259seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=5	Total Acc is 0.957	Time:112.15454173088074seconds
+	[Result] k=5	Total Acc is 0.957	Time:109.20763087272644seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=10	Total Acc is 0.956	Time:112.1603569984436seconds
+	[Result] k=10	Total Acc is 0.956	Time:110.26832222938538seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=1	Total Acc is 0.9535	Time:224.3231520652771seconds
+	[Result] k=1	Total Acc is 0.9535	Time:221.01387810707092seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=5	Total Acc is 0.9515	Time:224.2783522605896seconds
+	[Result] k=5	Total Acc is 0.9515	Time:221.7222547531128seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=10	Total Acc is 0.951	Time:224.27745366096497seconds
+	[Result] k=10	Total Acc is 0.951	Time:222.1425039768219seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=1	Total Acc is 0.9514	Time:560.7299559116364seconds
+	[Result] k=1	Total Acc is 0.9514	Time:551.0297169685364seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=5	Total Acc is 0.9512	Time:559.690128326416seconds
+	[Result] k=5	Total Acc is 0.9512	Time:547.1778976917267seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=10	Total Acc is 0.9504	Time:559.8597388267517seconds
+	[Result] k=10	Total Acc is 0.9504	Time:551.0697178840637seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=1	Total Acc is 0.9666	Time:1119.9631979465485seconds
+	[Result] k=1	Total Acc is 0.9666	Time:1122.678328037262seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=5	Total Acc is 0.9664	Time:1120.0038692951202seconds
+	[Result] k=5	Total Acc is 0.9664	Time:1099.3742470741272seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=10	Total Acc is 0.9652	Time:1119.86665725708seconds
+	[Result] k=10	Total Acc is 0.9652	Time:1113.9306244850159seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.38	Time:0.15924620628356934seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.38	Time:0.013734817504882812seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.58	Time:0.1594095230102539seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.58	Time:0.014361381530761719seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.76	Time:0.15927863121032715seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.76	Time:0.013198137283325195seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.47	Time:0.16148948669433594seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.47	Time:0.013103723526000977seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.64	Time:0.16060161590576172seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.64	Time:0.013194561004638672seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.82	Time:0.16025924682617188seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.82	Time:0.013558149337768555seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.45	Time:0.16245555877685547seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.45	Time:0.013588905334472656seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.67	Time:0.16172313690185547seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.67	Time:0.01373910903930664seconds
 
 Train number: 1000	 Test number:100
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.83	Time:0.16134333610534668seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.83	Time:0.014166593551635742seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.415	Time:0.3084261417388916seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.415	Time:0.02307915687561035seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6	Time:0.30837082862854004seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6	Time:0.02431035041809082seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.79	Time:0.308577299118042seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.79	Time:0.02595806121826172seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.465	Time:0.31279945373535156seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.465	Time:0.025918006896972656seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.675	Time:0.31166744232177734seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.675	Time:0.026105642318725586seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.845	Time:0.308305025100708seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.845	Time:0.02716231346130371seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4	Time:0.3339197635650635seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4	Time:0.027341842651367188seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.69	Time:0.31089091300964355seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.69	Time:0.02736663818359375seconds
 
 Train number: 1000	 Test number:200
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.86	Time:0.30982494354248047seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.86	Time:0.0281527042388916seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.37	Time:0.7542393207550049seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.37	Time:0.05727529525756836seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.592	Time:0.7505500316619873seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.592	Time:0.06081962585449219seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.78	Time:0.7504568099975586seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.78	Time:0.06441211700439453seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.42	Time:0.7606351375579834seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.42	Time:0.06382489204406738seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.642	Time:0.7573690414428711seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.642	Time:0.06480908393859863seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.814	Time:0.7545125484466553seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.814	Time:0.06742596626281738seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.394	Time:0.7664182186126709seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.394	Time:0.06719446182250977seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.652	Time:0.7625446319580078seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.652	Time:0.06773233413696289seconds
 
 Train number: 1000	 Test number:500
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.822	Time:0.7595479488372803seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.822	Time:0.07064223289489746seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.382	Time:1.4907255172729492seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.382	Time:0.1143500804901123seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.597	Time:1.4955840110778809seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.597	Time:0.12091994285583496seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.781	Time:1.4899802207946777seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.781	Time:0.12848806381225586seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.426	Time:1.514005422592163seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.426	Time:0.1273331642150879seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.647	Time:1.5043721199035645seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.647	Time:0.12984180450439453seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.811	Time:1.5013840198516846seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.811	Time:0.13481593132019043seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.42	Time:1.5175397396087646seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.42	Time:0.13438630104064941seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.659	Time:1.5124702453613281seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.659	Time:0.1351175308227539seconds
 
 Train number: 1000	 Test number:1000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.814	Time:1.5078446865081787seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.814	Time:0.15813493728637695seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3775	Time:2.9686925411224365seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3775	Time:0.22887063026428223seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.5915	Time:2.9770760536193848seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.5915	Time:0.24060273170471191seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.772	Time:2.9772465229034424seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.772	Time:0.2820615768432617seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.417	Time:3.0087497234344482seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.417	Time:0.2832303047180176seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6335	Time:3.0031473636627197seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6335	Time:0.2874419689178467seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.796	Time:2.9914391040802seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.796	Time:0.2676255702972412seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.425	Time:3.024461030960083seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.425	Time:0.2672851085662842seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6515	Time:3.0107061862945557seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6515	Time:0.2680974006652832seconds
 
 Train number: 1000	 Test number:2000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.796	Time:3.0071444511413574seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.796	Time:0.2779238224029541seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3692	Time:7.404327869415283seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3692	Time:0.5629434585571289seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6038	Time:7.412858247756958seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6038	Time:0.5936832427978516seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.7794	Time:7.417095422744751seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.7794	Time:0.6399481296539307seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4046	Time:7.598180294036865seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4046	Time:0.6591231822967529seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6404	Time:7.501138925552368seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6404	Time:0.6660346984863281seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.7982	Time:7.495411157608032seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.7982	Time:0.6927163600921631seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.416	Time:7.603635787963867seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.416	Time:0.692469596862793seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6502	Time:7.56315803527832seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6502	Time:0.6950287818908691seconds
 
 Train number: 1000	 Test number:5000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.7958	Time:7.530823230743408seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.7958	Time:0.7177033424377441seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3852	Time:14.787970304489136seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3852	Time:1.15236496925354seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.638	Time:14.805761337280273seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.638	Time:1.2120094299316406seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8115	Time:14.832743644714355seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8115	Time:1.2826204299926758seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4205	Time:15.007254838943481seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4205	Time:1.2771165370941162seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6748	Time:14.954662322998047seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6748	Time:1.2905693054199219seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8333	Time:14.9960196018219seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8333	Time:1.3402721881866455seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.434	Time:15.180910348892212seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.434	Time:1.3409006595611572seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.686	Time:15.101877689361572seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.686	Time:1.3403174877166748seconds
 
 Train number: 1000	 Test number:10000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8346	Time:15.05965805053711seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8346	Time:1.3833284378051758seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.35	Time:0.3282930850982666seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.35	Time:0.021183490753173828seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6	Time:0.32859230041503906seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6	Time:0.02219557762145996seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.84	Time:0.32846832275390625seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.84	Time:0.023846149444580078seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.44	Time:0.33028745651245117seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.44	Time:0.023006200790405273seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.68	Time:0.3293766975402832seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.68	Time:0.02363419532775879seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.88	Time:0.3293583393096924seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.88	Time:0.02461838722229004seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.54	Time:0.33293724060058594seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.54	Time:0.023842573165893555seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.69	Time:0.3314824104309082seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.69	Time:0.024244308471679688seconds
 
 Train number: 2000	 Test number:100
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.87	Time:0.33086419105529785seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.87	Time:0.02200913429260254seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.35	Time:0.651756763458252seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.35	Time:0.0422060489654541seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.615	Time:0.6485595703125seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.615	Time:0.04456496238708496seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.825	Time:0.650609016418457seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.825	Time:0.04182076454162598seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.45	Time:0.6519753932952881seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.45	Time:0.03974318504333496seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7	Time:0.6509642601013184seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7	Time:0.04084897041320801seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.895	Time:0.650118350982666seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.895	Time:0.0430142879486084seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.51	Time:0.6539275646209717seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.51	Time:0.0475919246673584seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7	Time:0.6519503593444824seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7	Time:0.04828023910522461seconds
 
 Train number: 2000	 Test number:200
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.895	Time:0.6528112888336182seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.895	Time:0.04383206367492676seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.354	Time:1.6076464653015137seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.354	Time:0.09186863899230957seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.612	Time:1.613293170928955seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.612	Time:0.09752750396728516seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.818	Time:1.6067750453948975seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.818	Time:0.1047053337097168seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.408	Time:1.6211678981781006seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.408	Time:0.09841370582580566seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.704	Time:1.6140789985656738seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.704	Time:0.10190844535827637seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.846	Time:1.60994291305542seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.846	Time:0.10741043090820312seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.428	Time:1.6200544834136963seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.428	Time:0.10128378868103027seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.702	Time:1.6222615242004395seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.702	Time:0.1041252613067627seconds
 
 Train number: 2000	 Test number:500
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.862	Time:1.612616777420044seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.862	Time:0.1249532699584961seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.37	Time:3.199265956878662seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.37	Time:0.20804309844970703seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.61	Time:3.204132080078125seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.61	Time:0.21861004829406738seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.816	Time:3.2061891555786133seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.816	Time:0.20855975151062012seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.416	Time:3.221248149871826seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.416	Time:0.22376489639282227seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.69	Time:3.2130415439605713seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.69	Time:0.20302700996398926seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.843	Time:3.2114148139953613seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.843	Time:0.21403121948242188seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.435	Time:3.227116107940674seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.435	Time:0.20228075981140137seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7	Time:3.2193620204925537seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7	Time:0.20765328407287598seconds
 
 Train number: 2000	 Test number:1000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.854	Time:3.288447856903076seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.854	Time:0.21791505813598633seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.358	Time:6.409766435623169seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.358	Time:0.3868885040283203seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6055	Time:6.407438278198242seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6055	Time:0.40665531158447266seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8085	Time:6.407111167907715seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8085	Time:0.4352078437805176seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4015	Time:6.450647592544556seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4015	Time:0.4165022373199463seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6645	Time:6.429885149002075seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6645	Time:0.42720627784729004seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.832	Time:6.430590867996216seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.832	Time:0.4474647045135498seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4235	Time:6.464229583740234seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4235	Time:0.42870092391967773seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6795	Time:6.4504289627075195seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6795	Time:0.4358081817626953seconds
 
 Train number: 2000	 Test number:2000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.834	Time:6.432538986206055seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.834	Time:0.45577406883239746seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3578	Time:15.993031024932861seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3578	Time:0.9252181053161621seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6156	Time:16.009132623672485seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6156	Time:0.9794859886169434seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8128	Time:15.999562740325928seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8128	Time:1.0470147132873535seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4034	Time:16.10403275489807seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4034	Time:0.9922850131988525seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.662	Time:16.079820156097412seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.662	Time:1.0220143795013428seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8358	Time:16.05473828315735seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8358	Time:1.076230525970459seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.414	Time:16.21352982521057seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.414	Time:1.022038221359253seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6782	Time:16.17158842086792seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6782	Time:1.043607473373413seconds
 
 Train number: 2000	 Test number:5000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8356	Time:16.14171576499939seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8356	Time:1.0968420505523682seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3765	Time:32.14892530441284seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3765	Time:1.8199074268341064seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6507	Time:32.16069269180298seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6507	Time:1.929947853088379seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8445	Time:32.13188982009888seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8445	Time:2.0645318031311035seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4187	Time:32.30470108985901seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4187	Time:1.9471688270568848seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6981	Time:32.25944542884827seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6981	Time:2.009446382522583seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8658	Time:32.131266355514526seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8658	Time:2.1185052394866943seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4321	Time:32.32937455177307seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4321	Time:2.0047364234924316seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7135	Time:32.22025728225708seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7135	Time:2.0488131046295166seconds
 
 Train number: 2000	 Test number:10000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8662	Time:32.190587759017944seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8662	Time:2.1528313159942627seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.4	Time:0.8628413677215576seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.4	Time:0.04381275177001953seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.63	Time:0.8619718551635742seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.63	Time:0.046468257904052734seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.87	Time:0.8629274368286133seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.87	Time:0.04985356330871582seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.41	Time:0.8644497394561768seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.41	Time:0.04571890830993652seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.66	Time:0.8642418384552002seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.66	Time:0.04778122901916504seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9	Time:0.8634319305419922seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9	Time:0.050464630126953125seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.44	Time:0.8656740188598633seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.44	Time:0.046658992767333984seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.69	Time:0.8658804893493652seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.69	Time:0.04838705062866211seconds
 
 Train number: 5000	 Test number:100
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.88	Time:0.8618805408477783seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.88	Time:0.05090045928955078seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.365	Time:1.7175586223602295seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.365	Time:0.0873558521270752seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.665	Time:1.7155790328979492seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.665	Time:0.09258103370666504seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.875	Time:1.7167634963989258seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.875	Time:0.09975242614746094seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.42	Time:1.7202880382537842seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.42	Time:0.09131097793579102seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.695	Time:1.7184765338897705seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.695	Time:0.09513092041015625seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.91	Time:1.7212953567504883seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.91	Time:0.10056090354919434seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4	Time:1.7243075370788574seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4	Time:0.09322786331176758seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.715	Time:1.7191307544708252seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.715	Time:0.09636998176574707seconds
 
 Train number: 5000	 Test number:200
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.905	Time:1.7177152633666992seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.905	Time:0.1013338565826416seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.372	Time:4.280116081237793seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.372	Time:0.21547555923461914seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.668	Time:4.280529022216797seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.668	Time:0.227125883102417seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.858	Time:4.2786548137664795seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.858	Time:0.24140262603759766seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.414	Time:4.289259195327759seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.414	Time:0.22353744506835938seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.694	Time:4.285045623779297seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.694	Time:0.23302173614501953seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.878	Time:4.281918048858643seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.878	Time:0.24414873123168945seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.396	Time:4.292844533920288seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.396	Time:0.2272331714630127seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.708	Time:4.2860682010650635seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.708	Time:0.23453593254089355seconds
 
 Train number: 5000	 Test number:500
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.87	Time:4.292721271514893seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.87	Time:0.24642515182495117seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.384	Time:8.579360485076904seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.384	Time:0.40638136863708496seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.656	Time:8.582045316696167seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.656	Time:0.4303865432739258seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.858	Time:8.578912734985352seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.858	Time:0.4591367244720459seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.416	Time:8.602144718170166seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.416	Time:0.42070865631103516seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.696	Time:8.594454765319824seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.696	Time:0.4383811950683594seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.879	Time:8.587934255599976seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.879	Time:0.4645271301269531seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.413	Time:8.6101815700531seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.413	Time:0.4282810688018799seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.709	Time:8.59671688079834seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.709	Time:0.44391393661499023seconds
 
 Train number: 5000	 Test number:1000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.877	Time:8.59445858001709seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.877	Time:0.4677431583404541seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.385	Time:17.159396171569824seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.385	Time:0.786226749420166seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.633	Time:17.174738883972168seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.633	Time:0.8357574939727783seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.852	Time:17.15648579597473seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.852	Time:0.8936178684234619seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.405	Time:17.19357991218567seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.405	Time:0.8171951770782471seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6815	Time:17.176485061645508seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6815	Time:0.8528766632080078seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8665	Time:17.174823999404907seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8665	Time:0.9050891399383545seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4105	Time:17.214544534683228seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4105	Time:0.8302252292633057seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6915	Time:17.194602489471436seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.6915	Time:0.8621280193328857seconds
 
 Train number: 5000	 Test number:2000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.864	Time:17.12391996383667seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.864	Time:0.9113306999206543seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3662	Time:42.74411416053772seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3662	Time:1.9310524463653564seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.639	Time:42.76235032081604seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.639	Time:2.052245616912842seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8544	Time:42.75572443008423seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8544	Time:2.200700044631958seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.399	Time:42.964608669281006seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.399	Time:2.0036966800689697seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6848	Time:42.928606033325195seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6848	Time:2.10552716255188seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.87	Time:42.904200315475464seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.87	Time:2.2140605449676514seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4124	Time:43.01222848892212seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4124	Time:2.015808582305908seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.697	Time:42.96011972427368seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.697	Time:2.1167349815368652seconds
 
 Train number: 5000	 Test number:5000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8652	Time:42.902584075927734seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8652	Time:2.2414302825927734seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3836	Time:85.60432744026184seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3836	Time:3.836473226547241seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6691	Time:85.5904004573822seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6691	Time:4.0785231590271seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8771	Time:85.62704730033875seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8771	Time:4.357353448867798seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4144	Time:85.97666478157043seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4144	Time:3.9557406902313232seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7131	Time:85.83629107475281seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7131	Time:4.142842054367065seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8949	Time:85.77274513244629seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8949	Time:4.4049882888793945seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4333	Time:85.99657011032104seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4333	Time:4.041654109954834seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7319	Time:85.91940331459045seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7319	Time:4.200772523880005seconds
 
 Train number: 5000	 Test number:10000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8925	Time:85.80737972259521seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8925	Time:4.447053670883179seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.41	Time:4.3572235107421875seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.41	Time:0.08346819877624512seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.66	Time:4.366245746612549seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.66	Time:0.08861446380615234seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.87	Time:4.364608287811279seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.87	Time:0.09522390365600586seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.45	Time:4.363136291503906seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.45	Time:0.08550477027893066seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.71	Time:4.357453346252441seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.71	Time:0.08966255187988281seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.93	Time:4.36124849319458seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.93	Time:0.09592223167419434seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.46	Time:4.359270811080933seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.46	Time:0.08631086349487305seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.72	Time:4.360821485519409seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.72	Time:0.09043669700622559seconds
 
 Train number: 10000	 Test number:100
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.93	Time:4.356358528137207seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.93	Time:0.09624814987182617seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.35	Time:8.708834171295166seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.35	Time:0.16681814193725586seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.69	Time:8.706958055496216seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.69	Time:0.17713665962219238seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.895	Time:8.706345081329346seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.895	Time:0.1902761459350586seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.405	Time:8.704020977020264seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.405	Time:0.17095351219177246seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.74	Time:8.70505404472351seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.74	Time:0.17869234085083008seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.935	Time:8.700960874557495seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.935	Time:0.19132781028747559seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.425	Time:8.712588787078857seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.425	Time:0.1722431182861328seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.735	Time:8.70245885848999seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.735	Time:0.18048548698425293seconds
 
 Train number: 10000	 Test number:200
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.925	Time:8.705105781555176seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.925	Time:0.19187045097351074seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.356	Time:21.73013401031494seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.356	Time:0.389376163482666seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.666	Time:21.70837712287903seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.666	Time:0.4125516414642334seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.866	Time:21.65155529975891seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.866	Time:0.44337892532348633seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.392	Time:21.696157693862915seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.392	Time:0.39751768112182617seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.71	Time:21.646511554718018seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.71	Time:0.4181194305419922seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.896	Time:21.674872398376465seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.896	Time:0.4449906349182129seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.424	Time:21.693564653396606seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.424	Time:0.38709449768066406seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.722	Time:21.65664529800415seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.722	Time:0.40686607360839844seconds
 
 Train number: 10000	 Test number:500
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.89	Time:21.66141366958618seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.89	Time:0.45099568367004395seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.374	Time:43.3675901889801seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.374	Time:0.7590985298156738seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.67	Time:43.26871728897095seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.67	Time:0.8033418655395508seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.87	Time:43.32610583305359seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.87	Time:0.864016056060791seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.408	Time:43.357932567596436seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.408	Time:0.7710919380187988seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.713	Time:43.29499864578247seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.713	Time:0.8121302127838135seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.897	Time:43.310340881347656seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.897	Time:0.8672304153442383seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.435	Time:43.40861415863037seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.435	Time:0.7777590751647949seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.725	Time:43.394625186920166seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.725	Time:0.8160760402679443seconds
 
 Train number: 10000	 Test number:1000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.893	Time:43.366077184677124seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.893	Time:0.8713805675506592seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.371	Time:86.70253229141235seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.371	Time:1.4885973930358887seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.646	Time:86.69966959953308seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.646	Time:1.5825257301330566seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.867	Time:86.67496347427368seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.867	Time:1.7052233219146729seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.397	Time:86.76402497291565seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.397	Time:1.518824815750122seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.695	Time:86.68784427642822seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.695	Time:1.6006970405578613seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.883	Time:86.72227954864502seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.883	Time:1.7142586708068848seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4235	Time:86.75300025939941seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4235	Time:1.5315189361572266seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.71	Time:86.73247337341309seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.71	Time:1.6085762977600098seconds
 
 Train number: 10000	 Test number:2000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.884	Time:86.72034358978271seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.884	Time:1.701188325881958seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3632	Time:216.8856656551361seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3632	Time:3.6672892570495605seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6506	Time:216.71915435791016seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6506	Time:3.915208101272583seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8654	Time:216.75705885887146seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8654	Time:4.227667331695557seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.3974	Time:216.90442323684692seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.3974	Time:3.759881019592285seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6964	Time:216.82464170455933seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.6964	Time:3.965390682220459seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8834	Time:216.69946670532227seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8834	Time:4.252926588058472seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4172	Time:216.9794442653656seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4172	Time:3.7900938987731934seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7088	Time:216.80864453315735seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7088	Time:3.9855446815490723seconds
 
 Train number: 10000	 Test number:5000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8862	Time:216.81761765480042seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8862	Time:4.273355960845947seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3834	Time:433.5700192451477seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3834	Time:7.335175037384033seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6792	Time:433.37394189834595seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6792	Time:7.816202878952026seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8891	Time:433.41379404067993seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8891	Time:8.414511919021606seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.417	Time:432.88075971603394seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.417	Time:7.491122007369995seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7281	Time:433.04373693466187seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7281	Time:7.88293194770813seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9062	Time:436.4512987136841seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9062	Time:8.44013500213623seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4415	Time:433.034170627594seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4415	Time:7.551328897476196seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7392	Time:432.800945520401seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7392	Time:7.932312965393066seconds
 
 Train number: 10000	 Test number:10000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.9088	Time:432.634024143219seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.9088	Time:8.490041255950928seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.37	Time:10.720748901367188seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.37	Time:0.20903348922729492seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.64	Time:10.72125792503357seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.64	Time:0.22348451614379883seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.9	Time:10.729586839675903seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.9	Time:0.22347664833068848seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4	Time:10.738428115844727seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4	Time:0.2102646827697754seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.71	Time:10.735926628112793seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.71	Time:0.20734763145446777seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.94	Time:10.73164677619934seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.94	Time:0.2233121395111084seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.45	Time:10.739083766937256seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.45	Time:0.1918473243713379seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.71	Time:10.727518081665039seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.71	Time:0.22477364540100098seconds
 
 Train number: 25000	 Test number:100
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.95	Time:10.732346057891846seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.95	Time:0.24372315406799316seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.35	Time:21.447165966033936seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.35	Time:0.3942110538482666seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.69	Time:21.458096981048584seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.69	Time:0.4245166778564453seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.905	Time:21.447895765304565seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.905	Time:0.44309043884277344seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.405	Time:21.450546264648438seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.405	Time:0.38001060485839844seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.75	Time:21.44828701019287seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.75	Time:0.42686939239501953seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.935	Time:21.44494390487671seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.935	Time:0.45968151092529297seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.41	Time:21.45240068435669seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.41	Time:0.3979146480560303seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.745	Time:21.446988821029663seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.745	Time:0.40753173828125seconds
 
 Train number: 25000	 Test number:200
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.95	Time:21.444166660308838seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.95	Time:0.459256649017334seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.354	Time:53.60306715965271seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.354	Time:0.947340726852417seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.668	Time:53.66698861122131seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.668	Time:1.0261297225952148seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.896	Time:53.59910774230957seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.896	Time:1.116748332977295seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.426	Time:53.611889123916626seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.426	Time:0.9388618469238281seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.732	Time:53.62449932098389seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.732	Time:1.0164456367492676seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.912	Time:53.608108043670654seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.912	Time:1.1036908626556396seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.41	Time:53.6500301361084seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.41	Time:0.9415464401245117seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.738	Time:53.62834191322327seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.738	Time:1.0187888145446777seconds
 
 Train number: 25000	 Test number:500
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.918	Time:53.62011671066284seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.918	Time:1.1020641326904297seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.365	Time:107.2082622051239seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.365	Time:1.8551161289215088seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.671	Time:107.22162222862244seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.671	Time:2.0119693279266357seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.89	Time:107.2012677192688seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.89	Time:2.192509412765503seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.407	Time:107.19998860359192seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.407	Time:1.8715858459472656seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.739	Time:107.22456741333008seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.739	Time:2.022810697555542seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.906	Time:107.209805727005seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.906	Time:2.1932461261749268seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.425	Time:107.19942116737366seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.425	Time:1.8976519107818604seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.744	Time:107.24508476257324seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.744	Time:2.0437021255493164seconds
 
 Train number: 25000	 Test number:1000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.912	Time:107.21763157844543seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.912	Time:2.2020251750946045seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3615	Time:214.35746908187866seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3615	Time:3.7095437049865723seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6555	Time:214.43549036979675seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6555	Time:4.018188238143921seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8785	Time:214.40534901618958seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8785	Time:4.387108325958252seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.41	Time:214.50598645210266seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.41	Time:3.7480685710906982seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.712	Time:214.5145869255066seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.712	Time:4.029855012893677seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.897	Time:214.45787572860718seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.897	Time:4.402778387069702seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4215	Time:214.43732953071594seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4215	Time:3.771777868270874seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.723	Time:214.8276824951172seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.723	Time:4.058470249176025seconds
 
 Train number: 25000	 Test number:2000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8975	Time:214.77208948135376seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8975	Time:4.38904070854187seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3636	Time:537.2512543201447seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3636	Time:9.264208793640137seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6554	Time:537.1117198467255seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6554	Time:10.036257982254028seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.879	Time:536.5714275836945seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.879	Time:10.939400911331177seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4002	Time:537.3295106887817seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4002	Time:9.353013753890991seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7026	Time:537.2634193897247seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7026	Time:10.096510171890259seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8974	Time:537.1971304416656seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.8974	Time:10.963927745819092seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4182	Time:537.3182599544525seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4182	Time:9.382848739624023seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.719	Time:537.2725236415863seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.719	Time:10.105189323425293seconds
 
 Train number: 25000	 Test number:5000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8982	Time:537.0310289859772seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.8982	Time:10.98047423362732seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3816	Time:1072.367022037506seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3816	Time:18.589622020721436seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6824	Time:1071.8962891101837seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6824	Time:20.211225986480713seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.9018	Time:1072.0190217494965seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.9018	Time:21.87781262397766seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4152	Time:1072.2832181453705seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4152	Time:18.65932607650757seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7341	Time:1071.2103798389435seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7341	Time:20.152034044265747seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9187	Time:1089.3033561706543seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9187	Time:21.882160902023315seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4344	Time:1075.7745246887207seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4344	Time:18.808417081832886seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7524	Time:1072.2660977840424seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7524	Time:20.275222063064575seconds
 
 Train number: 25000	 Test number:10000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.9196	Time:1072.1884021759033seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.9196	Time:22.067020893096924seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.36	Time:21.09204387664795seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.36	Time:0.40337061882019043seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.65	Time:21.089319705963135seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.65	Time:0.4383695125579834seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.91	Time:21.089182138442993seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.91	Time:0.4967203140258789seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.45	Time:21.12476134300232seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.45	Time:0.40360212326049805seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.71	Time:21.10727620124817seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.71	Time:0.43244481086730957seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.94	Time:21.09952211380005seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.94	Time:0.4885091781616211seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.39	Time:21.104189157485962seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.39	Time:0.4039449691772461seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.74	Time:21.116884231567383seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.74	Time:0.43491315841674805seconds
 
 Train number: 50000	 Test number:100
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.95	Time:21.082201719284058seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.95	Time:0.4933624267578125seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.33	Time:42.172147274017334seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.33	Time:0.7959699630737305seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.65	Time:42.18731355667114seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.65	Time:0.8573989868164062seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.925	Time:42.20087671279907seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.925	Time:0.981337308883667seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.415	Time:42.21642351150513seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.415	Time:0.7989068031311035seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.715	Time:42.21573567390442seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.715	Time:0.8630754947662354seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.95	Time:42.20075964927673seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.95	Time:1.0003752708435059seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.415	Time:42.214714765548706seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.415	Time:0.818328857421875seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.75	Time:42.225332260131836seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.75	Time:0.8780231475830078seconds
 
 Train number: 50000	 Test number:200
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.955	Time:42.211053133010864seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.955	Time:0.9796533584594727seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.358	Time:105.51828670501709seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.358	Time:1.9785301685333252seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.684	Time:105.53051567077637seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.684	Time:2.154421091079712seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.912	Time:105.52478075027466seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.912	Time:2.452322244644165seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.406	Time:105.5967071056366seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.406	Time:2.0037076473236084seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.74	Time:105.56010699272156seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.74	Time:2.159858226776123seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.926	Time:105.57742691040039seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.926	Time:2.451507806777954seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.43	Time:105.55667090415955seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.43	Time:2.008967399597168seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.754	Time:105.47021317481995seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.754	Time:2.161010980606079seconds
 
 Train number: 50000	 Test number:500
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.928	Time:105.55665016174316seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.928	Time:2.452044725418091seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.364	Time:211.01536083221436seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.364	Time:3.971362352371216seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.689	Time:210.900808095932seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.689	Time:4.29027533531189seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.9	Time:211.10717344284058seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.9	Time:4.888640880584717seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.422	Time:211.03518629074097seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.422	Time:3.9889793395996094seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.739	Time:210.92961287498474seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.739	Time:4.295665502548218seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.917	Time:211.16604828834534seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.917	Time:4.890387296676636seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.428	Time:210.991770029068seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.428	Time:3.9923672676086426seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.752	Time:211.05719423294067seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.752	Time:4.299850225448608seconds
 
 Train number: 50000	 Test number:1000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.922	Time:211.25230073928833seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.922	Time:4.892471075057983seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3595	Time:422.56914949417114seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3595	Time:7.915697813034058seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.666	Time:423.21530294418335seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.666	Time:8.557646036148071seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8885	Time:416.6765203475952seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.8885	Time:9.752040147781372seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4165	Time:408.2713632583618seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4165	Time:7.947476387023926seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.716	Time:406.71042823791504seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.716	Time:8.575604915618896seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9015	Time:407.30798411369324seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9015	Time:9.756173849105835seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.429	Time:407.8397927284241seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.429	Time:7.97478985786438seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.73	Time:406.8653943538666seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.73	Time:8.591002941131592seconds
 
 Train number: 50000	 Test number:2000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.91	Time:406.30619502067566seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.91	Time:9.789096117019653seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3632	Time:1016.8635585308075seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3632	Time:19.83747363090515seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6596	Time:1015.8014979362488seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6596	Time:21.483706951141357seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.891	Time:1016.1311123371124seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.891	Time:24.48513102531433seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4078	Time:1017.8915700912476seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4078	Time:19.92978549003601seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7086	Time:1001.4493443965912seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7086	Time:21.53436827659607seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.906	Time:1003.4909744262695seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.906	Time:24.523205757141113seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4172	Time:1005.4176113605499seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4172	Time:19.961099863052368seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7254	Time:1007.2924075126648seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7254	Time:21.55591130256653seconds
 
 Train number: 50000	 Test number:5000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.9072	Time:1025.5080502033234seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.9072	Time:24.523578882217407seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3765	Time:2012.488835811615seconds
+	[Result] k=1	eigenspace dimension=2	Total Acc is 0.3765	Time:39.73670244216919seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6885	Time:2003.2973651885986seconds
+	[Result] k=1	eigenspace dimension=5	Total Acc is 0.6885	Time:43.01618719100952seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=1	eigenspace dimension=10	Total Acc is 0.9111	Time:2016.000610589981seconds
+	[Result] k=1	eigenspace dimension=10	Total Acc is 0.9111	Time:48.869229793548584seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4201	Time:2004.2385363578796seconds
+	[Result] k=5	eigenspace dimension=2	Total Acc is 0.4201	Time:39.64340543746948seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7425	Time:2003.8503198623657seconds
+	[Result] k=5	eigenspace dimension=5	Total Acc is 0.7425	Time:42.77371621131897seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9254	Time:2002.2175471782684seconds
+	[Result] k=5	eigenspace dimension=10	Total Acc is 0.9254	Time:48.785298347473145seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4346	Time:2010.9165036678314seconds
+	[Result] k=10	eigenspace dimension=2	Total Acc is 0.4346	Time:39.73327398300171seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7587	Time:2011.14896774292seconds
+	[Result] k=10	eigenspace dimension=5	Total Acc is 0.7587	Time:42.890815019607544seconds
 
 Train number: 50000	 Test number:10000
-	[Result] k=10	eigenspace dimension=10	Total Acc is 0.929	Time:2010.8715062141418seconds
+	[Result] k=10	eigenspace dimension=10	Total Acc is 0.929	Time:48.74857211112976seconds
