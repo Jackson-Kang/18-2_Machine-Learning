@@ -1,0 +1,2400 @@
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.31	Time:0.018782377243041992seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.4	Time:0.017121076583862305seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.342	Time:0.10169267654418945seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.366	Time:0.11422324180603027seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.36	Time:0.19672489166259766seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.357	Time:0.16358065605163574seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.29	Time:0.03192138671875seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.56	Time:0.0468134880065918seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.33	Time:0.1679837703704834seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.468	Time:0.15448260307312012seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.342	Time:0.2456214427947998seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.44	Time:0.23180937767028809seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.35	Time:0.06837034225463867seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.54	Time:0.08745765686035156seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.37	Time:0.26323652267456055seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.464	Time:0.3074061870574951seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.385	Time:0.5945560932159424seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.473	Time:0.49440646171569824seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.3756	Time:2.4619028568267822seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.4564	Time:2.433124542236328seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.38	Time:0.09612798690795898seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.5	Time:0.13709592819213867seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.35	Time:0.4545438289642334seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.472	Time:0.47395992279052734seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.375	Time:0.9086863994598389seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.465	Time:0.9214456081390381seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.3666	Time:4.718966245651245seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.4594	Time:4.671142578125seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.3871	Time:9.614866256713867seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.4913	Time:9.95654559135437seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.37	Time:0.2765028476715088seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.63	Time:0.28473830223083496seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.388	Time:1.211291790008545seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.474	Time:1.2339673042297363seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.384	Time:2.4063727855682373seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.46	Time:2.438724994659424seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.3662	Time:12.994386672973633seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.4578	Time:12.415417909622192seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.3859	Time:24.25214648246765seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.481	Time:23.989646673202515seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.36	Time:0.5349156856536865seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.5	Time:0.45262956619262695seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.358	Time:2.3214104175567627seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.47	Time:2.3059115409851074seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.364	Time:4.719394207000732seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.459	Time:4.719912052154541seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.3632	Time:23.55350971221924seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.438	Time:23.16691303253174seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.3765	Time:45.818869829177856seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.465	Time:46.787410736083984seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.39	Time:0.018528223037719727seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.5	Time:0.019062280654907227seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.368	Time:0.09114241600036621seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.462	Time:0.10995125770568848seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.403	Time:0.21683526039123535seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.437	Time:0.1959373950958252seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.38	Time:0.02672863006591797seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.65	Time:0.047914981842041016seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.394	Time:0.15155291557312012seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.562	Time:0.1354234218597412seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.392	Time:0.26810574531555176seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.545	Time:0.35557055473327637seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.4	Time:0.10082650184631348seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.63	Time:0.0740807056427002seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.414	Time:0.24291157722473145seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.616	Time:0.2862534523010254seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.433	Time:0.5260679721832275seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.614	Time:0.5542278289794922seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.434	Time:2.529414415359497seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.5896	Time:2.5496041774749756seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.4	Time:0.11931681632995605seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.6	Time:0.12207603454589844seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.424	Time:0.5348503589630127seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.608	Time:0.5011229515075684seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.411	Time:1.055596113204956seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.619	Time:1.0142486095428467seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.4278	Time:4.969578742980957seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.6056	Time:4.904322147369385seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.4423	Time:10.227118253707886seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.6469	Time:9.962204933166504seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.46	Time:0.2716796398162842seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.6	Time:0.26044631004333496seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.424	Time:1.2748405933380127seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.614	Time:1.2724051475524902seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.434	Time:2.6452229022979736seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.628	Time:2.6117019653320312seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.4306	Time:13.515693426132202seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.6124	Time:13.105609893798828seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.4357	Time:26.08484673500061seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.6514	Time:26.181053400039673seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.44	Time:0.4686148166656494seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.7	Time:0.4794032573699951seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.434	Time:2.389003038406372seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.636	Time:2.3880512714385986seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.44	Time:4.743979454040527seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.635	Time:4.860518455505371seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.4306	Time:24.550368070602417seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.6116	Time:24.60257840156555seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.439	Time:47.7744414806366seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.6556	Time:48.615426778793335seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.62	Time:0.020959854125976562seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.6	Time:0.030847787857055664seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.626	Time:0.10889291763305664seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.54	Time:0.09707903861999512seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.634	Time:0.18586301803588867seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.504	Time:0.17149877548217773seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.6	Time:0.03109884262084961seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.7	Time:0.030646085739135742seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.61	Time:0.18319988250732422seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.64	Time:0.15178871154785156seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.607	Time:0.2896711826324463seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.635	Time:0.31697940826416016seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.66	Time:0.06613039970397949seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.78	Time:0.07091116905212402seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.634	Time:0.3174319267272949seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.718	Time:0.2961575984954834seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.647	Time:0.6095025539398193seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.718	Time:0.5228481292724609seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.6386	Time:2.828131914138794seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.6998	Time:2.7963294982910156seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.62	Time:0.11634206771850586seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.79	Time:0.1199498176574707seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.664	Time:0.5772953033447266seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.744	Time:0.6161620616912842seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.655	Time:1.1003117561340332seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.751	Time:1.2558064460754395seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.6396	Time:5.757358074188232seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.7322	Time:5.781622648239136seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.6743	Time:11.471322774887085seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.77	Time:11.43188762664795seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.63	Time:0.29315853118896484seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.76	Time:0.3263070583343506seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.67	Time:1.558215618133545seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.756	Time:1.5076472759246826seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.678	Time:3.0448832511901855seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.773	Time:3.055281162261963seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.6532	Time:15.191637754440308seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.7566	Time:15.960365056991577seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.685	Time:30.897838592529297seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.7878	Time:30.46487832069397seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.65	Time:0.5095643997192383seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.82	Time:0.5686180591583252seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.684	Time:2.61867618560791seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.774	Time:2.621405839920044seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.689	Time:5.499924421310425seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.779	Time:5.153982400894165seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.6596	Time:25.309157609939575seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.7568	Time:25.448485136032104seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.6885	Time:50.82755708694458seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.7873	Time:50.999794006347656seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.82	Time:0.021982192993164062seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.64	Time:0.04272890090942383seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.79	Time:0.14859986305236816seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.58	Time:0.12204456329345703seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.786	Time:0.2358856201171875seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.544	Time:0.1965160369873047seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.85	Time:0.05543184280395508seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.77	Time:0.03815436363220215seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.83	Time:0.15628671646118164seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.74	Time:0.16719961166381836seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.823	Time:0.29840874671936035seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.721	Time:0.3659665584564209seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.89	Time:0.10801577568054199seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.91	Time:0.0805966854095459seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.864	Time:0.4008512496948242seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.814	Time:0.39286041259765625seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.848	Time:0.763866662979126seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.805	Time:0.6633303165435791seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.8376	Time:3.635467529296875seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.799	Time:3.514235734939575seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.91	Time:0.14628362655639648seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.88	Time:0.15590667724609375seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.864	Time:0.6883728504180908seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.84	Time:0.7161815166473389seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.869	Time:1.4550526142120361seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.838	Time:1.4738438129425049seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.8558	Time:7.133161783218384seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.8316	Time:7.091315031051636seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.8741	Time:14.128883123397827seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.868	Time:14.248919248580933seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.88	Time:0.3869144916534424seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.93	Time:0.4306175708770752seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.874	Time:1.954953670501709seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.9	Time:2.0519258975982666seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.871	Time:4.0153772830963135seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.884	Time:4.023766756057739seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.8616	Time:19.856688499450684seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.8506	Time:19.790342330932617seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.8846	Time:39.54166626930237seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.8827	Time:39.19598031044006seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.87	Time:0.5558445453643799seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.87	Time:0.5651290416717529seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.876	Time:2.838754415512085seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.838	Time:2.878436803817749seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.879	Time:5.741573095321655seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.842	Time:5.808019399642944seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.8708	Time:28.664875268936157seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.8296	Time:28.70464849472046seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.8909	Time:56.16381025314331seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.8587	Time:57.64064335823059seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.49	Time:0.021698474884033203seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.4	Time:0.021912097930908203seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.418	Time:0.11147212982177734seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.358	Time:0.08890938758850098seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.413	Time:0.23943495750427246seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.355	Time:0.19035124778747559seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.38	Time:0.02878594398498535seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.58	Time:0.035199880599975586seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.338	Time:0.14467334747314453seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.504	Time:0.1538374423980713seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.368	Time:0.2863452434539795seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.471	Time:0.25259900093078613seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.47	Time:0.05776715278625488seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.59	Time:0.07301974296569824seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.418	Time:0.28053998947143555seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.51	Time:0.282214879989624seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.434	Time:0.5553908348083496seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.525	Time:0.513768196105957seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.4084	Time:2.5749852657318115seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.5018	Time:2.7466588020324707seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.37	Time:0.10358834266662598seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.59	Time:0.11258101463317871seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.4	Time:0.4886150360107422seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.53	Time:0.4571194648742676seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.426	Time:0.9902026653289795seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.515	Time:0.9844474792480469seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.4104	Time:4.830383062362671seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.5102	Time:4.949637413024902seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.4279	Time:9.599189519882202seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.5409	Time:9.560537099838257seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.41	Time:0.24784064292907715seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.57	Time:0.2506890296936035seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.394	Time:1.2084362506866455seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.506	Time:1.1741070747375488seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.411	Time:2.390786647796631seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.503	Time:2.375993490219116seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.4112	Time:12.403226137161255seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.5052	Time:12.764423608779907seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.4257	Time:24.79973077774048seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.5352	Time:24.630508422851562seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.45	Time:0.47785520553588867seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.56	Time:0.47242045402526855seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.406	Time:2.3259224891662598seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.526	Time:2.315833568572998seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.422	Time:4.710866212844849seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.509	Time:4.638370037078857seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.4078	Time:23.620425939559937seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.4908	Time:23.782767057418823seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=2	Total Acc is 0.4201	Time:47.26056790351868seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=2	Total Acc is 0.5229	Time:46.72966432571411seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.45	Time:0.05193686485290527seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.52	Time:0.04397916793823242seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.45	Time:0.1463925838470459seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.46	Time:0.09597516059875488seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.472	Time:0.23595881462097168seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.439	Time:0.21773815155029297seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.42	Time:0.03466606140136719seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.67	Time:0.048305511474609375seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.426	Time:0.20167255401611328seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.578	Time:0.1467440128326416seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.46	Time:0.30449414253234863seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.571	Time:0.3029336929321289seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.4	Time:0.0787959098815918seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.72	Time:0.09351849555969238seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.456	Time:0.2765986919403076seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.654	Time:0.29222989082336426seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.485	Time:0.5247619152069092seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.656	Time:0.5683603286743164seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.4724	Time:2.6371889114379883seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.6348	Time:2.5205676555633545seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.49	Time:0.14821171760559082seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.74	Time:0.1322791576385498seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.482	Time:0.5069530010223389seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.68	Time:0.5350921154022217seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.491	Time:0.9875876903533936seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.675	Time:0.9700515270233154seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.4758	Time:5.053231239318848seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.6528	Time:5.1075310707092285seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.4862	Time:11.310870885848999seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.6983	Time:10.359437942504883seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.51	Time:0.2765183448791504seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.72	Time:0.26476621627807617seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.468	Time:1.3190207481384277seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.682	Time:1.3495972156524658seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.479	Time:2.6990435123443604seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.697	Time:2.616119623184204seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.4748	Time:13.157109498977661seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.6748	Time:13.06205439567566seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.4781	Time:26.2738254070282seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.7137	Time:26.480681657791138seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.53	Time:0.5059914588928223seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.74	Time:0.46992969512939453seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.502	Time:2.4112067222595215seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.688	Time:2.4069406986236572seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.494	Time:4.862259149551392seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.693	Time:4.787670373916626seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.4714	Time:23.922564029693604seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.6706	Time:25.09229564666748seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=3	Total Acc is 0.4788	Time:47.669179916381836seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=3	Total Acc is 0.7128	Time:49.34649205207825seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.65	Time:0.046449899673461914seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.59	Time:0.021105051040649414seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.654	Time:0.10945510864257812seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.536	Time:0.11199021339416504seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.666	Time:0.24083518981933594seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.507	Time:0.19384026527404785seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.75	Time:0.0352628231048584seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.72	Time:0.034423112869262695seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.666	Time:0.16982316970825195seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.676	Time:0.17040753364562988seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.652	Time:0.3249526023864746seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.682	Time:0.3089022636413574seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.74	Time:0.08921694755554199seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.8	Time:0.06650233268737793seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.692	Time:0.3350343704223633seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.764	Time:0.30849719047546387seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.706	Time:0.6422679424285889seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.763	Time:0.6129145622253418seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.6922	Time:2.973522186279297seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.7442	Time:2.7657041549682617seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.7	Time:0.1267378330230713seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.81	Time:0.1203460693359375seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.708	Time:0.5999972820281982seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.776	Time:0.6294240951538086seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.708	Time:1.2907507419586182seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.788	Time:1.1461410522460938seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.6876	Time:5.655733346939087seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.7714	Time:5.829280853271484seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.7236	Time:11.447817325592041seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.8098	Time:11.417721271514893seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.73	Time:0.29676032066345215seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.82	Time:0.31615352630615234seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.728	Time:1.5704333782196045seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.802	Time:1.535170078277588seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.733	Time:3.000081777572632seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.814	Time:3.035694122314453seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.6994	Time:15.07522702217102seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.7914	Time:16.460041522979736seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.7343	Time:30.96338152885437seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.8267	Time:30.764856338500977seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.71	Time:0.49785304069519043seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.84	Time:0.528191328048706seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.74	Time:2.56534481048584seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.798	Time:2.5010056495666504seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.739	Time:5.476934909820557seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.808	Time:5.048606872558594seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.7086	Time:25.839147090911865seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.792	Time:25.60166835784912seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=5	Total Acc is 0.7425	Time:50.56341814994812seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=5	Total Acc is 0.826	Time:50.42447543144226seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.86	Time:0.04110407829284668seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.64	Time:0.05420398712158203seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.83	Time:0.11739826202392578seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.58	Time:0.10502123832702637seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.82	Time:0.20876693725585938seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.546	Time:0.2055950164794922seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.87	Time:0.038248300552368164seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.78	Time:0.08623099327087402seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.824	Time:0.2014148235321045seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.734	Time:0.1801598072052002seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.829	Time:0.38182830810546875seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.728	Time:0.3338932991027832seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.84	Time:0.1026003360748291seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.89	Time:0.07512545585632324seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.844	Time:0.36560964584350586seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.846	Time:0.40830540657043457seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.862	Time:0.7687842845916748seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.829	Time:0.6928110122680664seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.8546	Time:3.5473690032958984seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.8124	Time:3.485198497772217seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.92	Time:0.16112852096557617seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.9	Time:0.14533519744873047seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.878	Time:0.7717118263244629seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.848	Time:0.778071403503418seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.885	Time:1.462238073348999seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.852	Time:1.4332425594329834seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.872	Time:7.354428052902222seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.8504	Time:7.278335809707642seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.8935	Time:14.743756532669067seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.8831	Time:14.534754276275635seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.93	Time:0.403317928314209seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.93	Time:0.3737773895263672seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.886	Time:1.969787359237671seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.91	Time:2.014122724533081seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.889	Time:3.7791519165039062seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.891	Time:3.9396636486053467seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.881	Time:19.526116609573364seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.8768	Time:19.574678659439087seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.904	Time:39.183286905288696seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.9041	Time:39.58913850784302seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.93	Time:0.5344498157501221seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.88	Time:0.6158976554870605seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.894	Time:3.06892466545105seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.856	Time:2.883924961090088seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.903	Time:5.692081451416016seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.857	Time:5.681296348571777seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.8922	Time:28.23958992958069seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.845	Time:28.178587198257446seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=5	eigenspace dimension=9	Total Acc is 0.9119	Time:56.967143058776855seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=5	eigenspace dimension=9	Total Acc is 0.8765	Time:57.17091727256775seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.45	Time:0.023833036422729492seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.38	Time:0.04248189926147461seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.414	Time:0.14571833610534668seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.366	Time:0.11197113990783691seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.421	Time:0.24914336204528809seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.358	Time:0.21929049491882324seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.43	Time:0.030140161514282227seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.56	Time:0.05819416046142578seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.414	Time:0.15590763092041016seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.51	Time:0.1579911708831787seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.432	Time:0.30621767044067383seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.486	Time:0.3133888244628906seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.39	Time:0.07052206993103027seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.56	Time:0.05535411834716797seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.418	Time:0.2597811222076416seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.528	Time:0.27976036071777344seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.437	Time:0.5204055309295654seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.543	Time:0.5031490325927734seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.4184	Time:2.601693868637085seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.5108	Time:2.732435941696167seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.45	Time:0.10242748260498047seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.61	Time:0.15444612503051758seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.434	Time:0.4842369556427002seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.556	Time:0.4697422981262207seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.447	Time:1.001244068145752seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.545	Time:0.9335353374481201seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.4238	Time:4.96518611907959seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.529	Time:4.808804512023926seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.446	Time:9.857941627502441seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.5593	Time:9.635904550552368seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.39	Time:0.29675912857055664seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.62	Time:0.2848069667816162seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.432	Time:1.1990833282470703seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.534	Time:1.2836923599243164seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.439	Time:2.463707447052002seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.533	Time:2.4981484413146973seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.4286	Time:12.412335872650146seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.529	Time:12.281863927841187seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.4456	Time:24.66214609146118seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.5629	Time:24.392695903778076seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.39	Time:0.45891785621643066seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.62	Time:0.4606916904449463seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.43	Time:2.4266273975372314seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.552	Time:2.3815290927886963seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.428	Time:4.777356386184692seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.537	Time:4.7897913455963135seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.4172	Time:23.612842559814453seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.5162	Time:23.436116695404053seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=2	Total Acc is 0.4346	Time:46.98872709274292seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=2	Total Acc is 0.545	Time:46.41020202636719seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.42	Time:0.02335190773010254seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.52	Time:0.030455350875854492seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.472	Time:0.1121377944946289seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.47	Time:0.11712193489074707seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.493	Time:0.21321916580200195seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.441	Time:0.22653889656066895seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.43	Time:0.03384852409362793seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.68	Time:0.05028986930847168seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.454	Time:0.15645909309387207seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.59	Time:0.15505003929138184seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.472	Time:0.3669607639312744seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.585	Time:0.2903318405151367seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.43	Time:0.06530880928039551seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.68	Time:0.06425237655639648seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.464	Time:0.2904345989227295seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.646	Time:0.3055093288421631seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.497	Time:0.5588829517364502seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.654	Time:0.5651051998138428seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.4818	Time:2.7581653594970703seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.642	Time:2.688159465789795seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.47	Time:0.13729643821716309seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.74	Time:0.13044285774230957seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.506	Time:0.49309301376342773seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.68	Time:0.5337297916412354seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.518	Time:1.0259475708007812seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.689	Time:0.9875767230987549seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.494	Time:5.240537881851196seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.6686	Time:5.1444196701049805seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.5034	Time:11.03931474685669seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.7125	Time:10.161509037017822seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.54	Time:0.289229154586792seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.75	Time:0.2790961265563965seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.508	Time:1.2934730052947998seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.71	Time:1.3128364086151123seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.507	Time:2.6386263370513916seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.72	Time:2.5790302753448486seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.4918	Time:13.165412425994873seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.6914	Time:12.947336196899414seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.501	Time:26.14665985107422seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.7287	Time:26.590615272521973seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.55	Time:0.48802947998046875seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.73	Time:0.5054147243499756seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.5	Time:2.4315407276153564seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.704	Time:2.4577651023864746seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.509	Time:4.7912092208862305seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.702	Time:4.856712341308594seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.4922	Time:23.955968856811523seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.6806	Time:25.072182178497314seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=3	Total Acc is 0.4993	Time:48.79473328590393seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=3	Total Acc is 0.7271	Time:49.446497201919556seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.67	Time:0.04133725166320801seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.57	Time:0.030851364135742188seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.658	Time:0.12944531440734863seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.53	Time:0.11876130104064941seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.666	Time:0.2731616497039795seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.5	Time:0.17676329612731934seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.69	Time:0.032462358474731445seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.72	Time:0.039244890213012695seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.664	Time:0.14766383171081543seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.682	Time:0.16625189781188965seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.659	Time:0.3289978504180908seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.683	Time:0.2960035800933838seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.7	Time:0.06364989280700684seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.81	Time:0.07645177841186523seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.706	Time:0.295940637588501seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.78	Time:0.3007164001464844seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.713	Time:0.5994954109191895seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.773	Time:0.5842576026916504seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.7028	Time:3.0004754066467285seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.7486	Time:2.9445083141326904seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.7	Time:0.1276841163635254seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.83	Time:0.13948607444763184seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.72	Time:0.5702626705169678seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.784	Time:0.570436954498291seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.723	Time:1.1971559524536133seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.795	Time:1.3433215618133545seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.7002	Time:6.177245140075684seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.7798	Time:5.668191432952881seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.737	Time:11.389212131500244seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.8154	Time:11.246827363967896seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.72	Time:0.32152748107910156seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.86	Time:0.34048962593078613seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.734	Time:1.5427076816558838seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.812	Time:1.5659234523773193seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.739	Time:3.102184295654297seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.818	Time:3.086652994155884seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.7174	Time:15.334406614303589seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.803	Time:15.596911430358887seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.7515	Time:32.10880732536316seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.8367	Time:30.539649724960327seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.74	Time:0.5524716377258301seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.81	Time:0.5293552875518799seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.754	Time:2.5219149589538574seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.796	Time:2.5992534160614014seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.752	Time:5.166566371917725seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.812	Time:5.124139070510864seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.7254	Time:25.510198831558228seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.8028	Time:25.805756092071533seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=5	Total Acc is 0.7587	Time:50.67710089683533seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=5	Total Acc is 0.8355	Time:50.92497396469116seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.8	Time:0.044098615646362305seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.67	Time:0.042577266693115234seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.806	Time:0.12421274185180664seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.578	Time:0.12175655364990234seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.799	Time:0.2802112102508545seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.542	Time:0.23076081275939941seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.88	Time:0.041692256927490234seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.76	Time:0.07140994071960449seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.846	Time:0.2204904556274414seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.73	Time:0.17465806007385254seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.842	Time:0.3672966957092285seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.724	Time:0.3602025508880615seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.88	Time:0.08247733116149902seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.87	Time:0.08404302597045898seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.856	Time:0.4078977108001709seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.846	Time:0.3827948570251465seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.873	Time:0.7587165832519531seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.828	Time:0.7974474430084229seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.8588	Time:3.878431797027588seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.8132	Time:3.6000542640686035seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.9	Time:0.16324234008789062seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.9	Time:0.14975905418395996seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.868	Time:0.7756502628326416seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.86	Time:0.7594733238220215seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.879	Time:1.435671091079712seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.862	Time:1.3873705863952637seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.8716	Time:7.354017496109009seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.8522	Time:7.403189420700073seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.8951	Time:14.628309488296509seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.8841	Time:16.212886571884155seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.92	Time:0.3892195224761963seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.94	Time:0.38431811332702637seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.886	Time:1.970517873764038seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.902	Time:2.042297840118408seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.892	Time:3.894002676010132seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.884	Time:4.09715461730957seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.8846	Time:19.553250551223755seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.8758	Time:20.035539388656616seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.9054	Time:39.98639750480652seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.9028	Time:39.7088348865509seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.95	Time:0.5740008354187012seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.89	Time:0.6487939357757568seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.896	Time:3.0248451232910156seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.85	Time:2.8208601474761963seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.9	Time:5.6561291217803955seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.855	Time:5.672559499740601seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.8914	Time:28.83943772315979seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.8456	Time:28.631234884262085seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=10	eigenspace dimension=9	Total Acc is 0.9137	Time:56.715147972106934seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=10	eigenspace dimension=9	Total Acc is 0.8776	Time:56.92835259437561seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.42	Time:0.020922422409057617seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.38	Time:0.01901531219482422seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.408	Time:0.11247515678405762seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.354	Time:0.1121375560760498seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.402	Time:0.16480422019958496seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.352	Time:0.20855045318603516seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.35	Time:0.02875494956970215seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.56	Time:0.03853750228881836seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.358	Time:0.15203475952148438seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.496	Time:0.15735316276550293seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.385	Time:0.3258512020111084seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.46	Time:0.23409104347229004seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.37	Time:0.05770087242126465seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.59	Time:0.05918312072753906seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.388	Time:0.23506951332092285seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.51	Time:0.28011441230773926seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.403	Time:0.5216495990753174seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.522	Time:0.5426003932952881seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.3972	Time:2.560626745223999seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.486	Time:2.5616519451141357seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.42	Time:0.1309370994567871seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.55	Time:0.1015467643737793seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.42	Time:0.49859094619750977seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.514	Time:0.5458462238311768seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.422	Time:0.9397234916687012seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.496	Time:1.0209853649139404seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.3974	Time:5.229183912277222seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.4858	Time:4.935827255249023seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.4119	Time:9.607188940048218seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.5179	Time:9.72012448310852seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.37	Time:0.2519035339355469seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.61	Time:0.24386072158813477seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.388	Time:1.2559006214141846seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.504	Time:1.2767915725708008seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.39	Time:2.6701698303222656seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.499	Time:2.320436477661133seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.3886	Time:12.300558090209961seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.4866	Time:12.482091426849365seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.4044	Time:24.47167730331421seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.516	Time:24.70148515701294seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.45	Time:0.4781622886657715seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.55	Time:0.5077800750732422seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.398	Time:2.492011070251465seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.498	Time:2.345161199569702seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.402	Time:4.6785547733306885seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.497	Time:4.638276815414429seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.3874	Time:23.017223119735718seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.4718	Time:24.028388500213623seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.3987	Time:47.005762338638306seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.5025	Time:47.23513865470886seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.42	Time:0.02078413963317871seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.49	Time:0.022913217544555664seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.42	Time:0.12592601776123047seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.462	Time:0.10063743591308594seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.429	Time:0.21280169486999512seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.438	Time:0.18509435653686523seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.41	Time:0.04036664962768555seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.63	Time:0.03443002700805664seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.398	Time:0.12946820259094238seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.57	Time:0.14542031288146973seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.43	Time:0.28680920600891113seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.567	Time:0.2984747886657715seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.38	Time:0.07555413246154785seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.66	Time:0.05819559097290039seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.422	Time:0.3089778423309326seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.626	Time:0.2742598056793213seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.453	Time:0.5255341529846191seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.629	Time:0.5815091133117676seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.4526	Time:2.6172969341278076seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.6116	Time:2.554060459136963seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.41	Time:0.10970020294189453seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.71	Time:0.11017417907714844seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.444	Time:0.5126590728759766seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.638	Time:0.5176544189453125seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.441	Time:1.0521087646484375seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.652	Time:0.979832649230957seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.4464	Time:5.1337807178497314seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.6342	Time:5.012000560760498seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.4593	Time:10.159549474716187seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.6792	Time:10.300499439239502seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.47	Time:0.2874631881713867seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.69	Time:0.2783339023590088seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.448	Time:1.2785375118255615seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.66	Time:1.3369650840759277seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.466	Time:2.6216514110565186seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.675	Time:2.6286919116973877seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.4574	Time:13.123077869415283seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.647	Time:13.929555654525757seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.4589	Time:26.69182324409485seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.6892	Time:26.28502106666565seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.47	Time:0.49941277503967285seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.72	Time:0.48119568824768066seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.456	Time:2.386523485183716seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.666	Time:2.5083515644073486seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.452	Time:4.801516532897949seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.665	Time:4.876884698867798seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.4458	Time:24.686903953552246seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.6496	Time:24.430110216140747seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.4559	Time:47.54727649688721seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=3	Total Acc is 0.6917	Time:48.33320665359497seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.64	Time:0.02324509620666504seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.58	Time:0.023373842239379883seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.654	Time:0.11059784889221191seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.538	Time:0.10986900329589844seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.66	Time:0.22491931915283203seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.511	Time:0.21871280670166016seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.71	Time:0.031226634979248047seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.73	Time:0.030253171920776367seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.666	Time:0.16084003448486328seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.666	Time:0.1533513069152832seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.648	Time:0.2964334487915039seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.667	Time:0.29988646507263184seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.7	Time:0.07024240493774414seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.81	Time:0.07830190658569336seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.668	Time:0.31188011169433594seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.754	Time:0.35241007804870605seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.672	Time:0.6956329345703125seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.753	Time:0.620408296585083seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.6686	Time:2.971540689468384seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.7326	Time:2.976560592651367seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.66	Time:0.11181831359863281seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.8	Time:0.12109255790710449seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.668	Time:0.6019129753112793seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.764	Time:0.5592591762542725seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.676	Time:1.1821348667144775seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.776	Time:1.0924417972564697seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.6688	Time:5.729597330093384seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.7596	Time:5.755425930023193seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.7059	Time:11.475762844085693seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.7965	Time:12.075893640518188seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.73	Time:0.32140541076660156seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.81	Time:0.33602261543273926seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.722	Time:1.508409023284912seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.78	Time:1.4817900657653809seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.717	Time:3.073820114135742seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.804	Time:3.028557538986206seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.682	Time:15.246585607528687seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.7832	Time:15.33851170539856seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.7144	Time:30.945984363555908seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.8147	Time:30.88582444190979seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.67	Time:0.5069513320922852seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.84	Time:0.5115320682525635seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.72	Time:2.531982898712158seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.786	Time:2.6146111488342285seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.718	Time:5.05588960647583seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.799	Time:5.033087968826294seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.6946	Time:25.28001832962036seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.7822	Time:26.289201736450195seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=5	Total Acc is 0.7258	Time:50.51388120651245seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=5	Total Acc is 0.8147	Time:51.01963496208191seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.87	Time:0.053426265716552734seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.65	Time:0.02679920196533203seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.808	Time:0.11820054054260254seconds
+
+Train number: 1000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.588	Time:0.10906982421875seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.804	Time:0.23479533195495605seconds
+
+Train number: 1000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.553	Time:0.226362943649292seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.85	Time:0.035498857498168945seconds
+
+Train number: 2000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.78	Time:0.06897878646850586seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.838	Time:0.17123031616210938seconds
+
+Train number: 2000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.738	Time:0.1717836856842041seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.834	Time:0.3270127773284912seconds
+
+Train number: 2000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.731	Time:0.36632776260375977seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.89	Time:0.07541084289550781seconds
+
+Train number: 5000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.88	Time:0.07554960250854492seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.854	Time:0.3544495105743408seconds
+
+Train number: 5000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.834	Time:0.35920000076293945seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.858	Time:0.6988856792449951seconds
+
+Train number: 5000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.819	Time:0.6510469913482666seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.8528	Time:3.505361557006836seconds
+
+Train number: 5000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.8072	Time:3.476011037826538seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.92	Time:0.15058660507202148seconds
+
+Train number: 10000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.89	Time:0.168229341506958seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.876	Time:0.8096494674682617seconds
+
+Train number: 10000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.852	Time:0.7336544990539551seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.871	Time:1.3993337154388428seconds
+
+Train number: 10000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.856	Time:1.417215347290039seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.8626	Time:7.3874523639678955seconds
+
+Train number: 10000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.848	Time:7.390439510345459seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.8861	Time:14.611873388290405seconds
+
+Train number: 10000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.8806	Time:14.659930229187012seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.91	Time:0.4152703285217285seconds
+
+Train number: 25000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.92	Time:0.41104841232299805seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.876	Time:1.9462916851043701seconds
+
+Train number: 25000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.898	Time:2.022296667098999seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.882	Time:3.9268202781677246seconds
+
+Train number: 25000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.888	Time:4.026813268661499seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.8726	Time:19.60059881210327seconds
+
+Train number: 25000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.8692	Time:19.72807002067566seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.8967	Time:39.34872508049011seconds
+
+Train number: 25000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.8981	Time:40.876230001449585seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.92	Time:0.5471897125244141seconds
+
+Train number: 50000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.9	Time:0.585242748260498seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.9	Time:2.866607904434204seconds
+
+Train number: 50000	 Test number:500
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.856	Time:2.854860782623291seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.898	Time:5.736944913864136seconds
+
+Train number: 50000	 Test number:1000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.852	Time:6.189746379852295seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.8858	Time:28.742716550827026seconds
+
+Train number: 50000	 Test number:5000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.8394	Time:28.37837862968445seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=3	eigenspace dimension=9	Total Acc is 0.9049	Time:57.73457336425781seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=3	eigenspace dimension=9	Total Acc is 0.8711	Time:58.20544672012329seconds
