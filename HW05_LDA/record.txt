@@ -1,0 +1,84 @@
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.31	Time:0.016115427017211914seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.4	Time:0.026128530502319336seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.39	Time:0.02611827850341797seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.5	Time:0.020897626876831055seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.62	Time:0.022882461547851562seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.6	Time:0.04060626029968262seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=9	Total Acc is 0.82	Time:0.024019479751586914seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=9	Total Acc is 0.64	Time:0.027569055557250977seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=2	Total Acc is 0.42	Time:0.03690171241760254seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=3	eigenspace dimension=2	Total Acc is 0.38	Time:0.018842697143554688seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=3	eigenspace dimension=3	Total Acc is 0.42	Time:0.01983952522277832seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=Random Forest	eigenspace dimension=2	Total Acc is 0.4137	Time:0.7979507446289062seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=Random Forest	eigenspace dimension=2	Total Acc is 0.5114	Time:0.8133082389831543seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=Random Forest	eigenspace dimension=3	Total Acc is 0.482	Time:0.7672035694122314seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=Random Forest	eigenspace dimension=3	Total Acc is 0.7203	Time:0.7023351192474365seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=Random Forest	eigenspace dimension=5	Total Acc is 0.7366	Time:1.2254087924957275seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=Random Forest	eigenspace dimension=5	Total Acc is 0.8361	Time:1.1584808826446533seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=PCA	k=Random Forest	eigenspace dimension=9	Total Acc is 0.8805	Time:1.615436315536499seconds
+
+Train number: 50000	 Test number:10000
+	[Result] mode=LDA	k=Random Forest	eigenspace dimension=9	Total Acc is 0.9027	Time:1.7756519317626953seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=2	Total Acc is 0.31	Time:0.02132129669189453seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=2	Total Acc is 0.4	Time:0.01775527000427246seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=3	Total Acc is 0.39	Time:0.02923274040222168seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=3	Total Acc is 0.5	Time:0.03273582458496094seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=1	eigenspace dimension=5	Total Acc is 0.62	Time:0.020400047302246094seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=1	eigenspace dimension=5	Total Acc is 0.6	Time:0.02327752113342285seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=Random Forest	eigenspace dimension=2	Total Acc is 0.33	Time:0.032434940338134766seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=LDA	k=Random Forest	eigenspace dimension=2	Total Acc is 0.42	Time:0.027884244918823242seconds
+
+Train number: 1000	 Test number:100
+	[Result] mode=PCA	k=Random Forest	eigenspace dimension=3	Total Acc is 0.41	Time:0.029847145080566406seconds
