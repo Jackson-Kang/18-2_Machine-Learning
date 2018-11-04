@@ -61,7 +61,7 @@ class module_init:
 		'''
 
 		self._data_preprocessor(train_number = train_number, test_number = test_number, eigenspace_dimension = eigenspace_dimension, mode = mode)
-
+		
 		start_time = time.time()	
 
 		clf = RandomForestClassifier()
@@ -71,7 +71,7 @@ class module_init:
 		time_spent = time.time() - start_time
 
 		self._result_writer(eigenspace_dimension=eigenspace_dimension, k="Random Forest", accuracy=acc, time_spent = time_spent, train_number = train_number, test_number = test_number, mode = mode)
-
+		
 
 
 	def _data_preprocessor(self, train_number, test_number, eigenspace_dimension, mode):
@@ -113,6 +113,15 @@ class module_init:
 		# for recoding model performances
 
 
+	def _check_variance_percentage(self, eigenvalues, eigenspace_dim, mode):
+		
+		percentages = eigenvalues / np.sum(eigenvalues)
+
+		total_percentages = np.sum(eigenvalues[:eigenspace_dim]) / np.sum(eigenvalues)
+
+		print("mode: ", mode, "\tvariance percentages:", list(percentages[:eigenspace_dim]), "\t total percentage:", total_percentages)
+
+
 	def PCA(self, eigenspace_dim):
 
 		'''
@@ -122,6 +131,10 @@ class module_init:
 		eigenvalues, eigenvectors = np.linalg.eig(cov_matrix)
 		eigenvectors =eigenvectors.T[:eigenspace_dim].T
 		# do eigen-decomposition
+
+		# self._check_variance_percentage(eigenvalues=np.abs(eigenvalues), eigenspace_dim=eigenspace_dim, mode = "PCA")
+			# if you want to check variance percentage, decomment this code
+
 
 		projectioned_train = np.dot(self._train_x, eigenvectors)
 		projectioned_test = np.dot(self._test_x, eigenvectors)
@@ -161,8 +174,13 @@ class module_init:
 		# eigen-decompose (SW)^(-1) X (SB)
 		eigen_pairs = [(np.abs(eigenvalues[i]), eigenvectors[:,i]) for i in range(len(eigenvalues))]
 		eigen_pairs = sorted(eigen_pairs, key=lambda k: k[0], reverse=True)
+
+		eigenvalues = np.array([eigen_pairs[i][0] for i in range(len(eigenvalues))])
 		eigenvectors = np.array([eigen_pairs[i][1] for i in range(eigenspace_dim)]).T
 		# sort (eigenvalue, eigenvector) pair
+		
+		# self._check_variance_percentage(eigenvalues=eigenvalues, eigenspace_dim=eigenspace_dim, mode = "LDA")
+			# if you want to check variance percentage, decomment this code
 
 		projected_train = np.dot(self._train_x, eigenvectors)
 		projected_test = np.dot(self._test_x, eigenvectors)

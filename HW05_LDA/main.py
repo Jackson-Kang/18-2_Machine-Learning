@@ -30,7 +30,6 @@ if __name__ == "__main__":
 	test_number_list = [10000]
 	mode_list = ["PCA", "LDA"]
 
-	'''
 	for k in k_list:
 		for dim in eigenspace_list:
 			for train_number in train_number_list:
@@ -42,8 +41,6 @@ if __name__ == "__main__":
 					for mode in mode_list:
 						module = modules.module_init(data = images)
 						module.knn_run(k = k, train_number = train_number, test_number = test_number, eigenspace_dimension=dim, mode = mode)
-	'''
-
 
 	 
 	for dim in eigenspace_list:
