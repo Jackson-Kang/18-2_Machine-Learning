@@ -127,7 +127,7 @@ class module_init:
 		'''
 			do PCA analysis
 		'''
-		cov_matrix = np.cov((self._train_x - np.mean(self._train_x, axis = 0)).T)
+		cov_matrix = np.cov((self._train_x).T)
 		eigenvalues, eigenvectors = np.linalg.eig(cov_matrix)
 		eigenvectors =eigenvectors.T[:eigenspace_dim].T
 		# do eigen-decomposition
@@ -162,7 +162,7 @@ class module_init:
 			# calculate mean of each class
 
 			for j in np.ndindex(class_features.shape[0]):
-				features_minus_class_mean = (class_features[j] - class_mean).reshape(784, 1)
+				features_minus_class_mean = (class_features[j]).reshape(784, 1)
 				variance_within_class += np.dot(features_minus_class_mean, features_minus_class_mean.T)
 				# calculate variance within class to minimize variance between samples in class
 

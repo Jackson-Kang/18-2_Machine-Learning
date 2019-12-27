@@ -164,10 +164,6 @@ class Radial_Basis_Function_Network:
 			y_hat[y_hat < 0.5] = -1
 			performance = (y_hat == self.__test_y).mean()
 
-
-		print("***********Test*************")
-		print("\t", self.__metric, "is", performance)	
-
 		return y_hat, performance
 
 
